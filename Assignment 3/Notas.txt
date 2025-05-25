@@ -1,0 +1,2 @@
+al remover, preguntar si quiere remover de verdad
+Al update, preguntar si quiere update
